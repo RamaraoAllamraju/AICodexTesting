@@ -1,0 +1,14 @@
+README.md
+  h_b5b1a6817f98ba 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d8919f57593b3f9e5c21bff9b28584cddd9f716c",
+  "prompts": {},
+  "humans": {
+    "h_b5b1a6817f98ba": {
+      "author": "RamaraoAllamraju8 <rama@cynomi.com>"
+    }
+  }
+}
